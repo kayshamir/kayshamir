@@ -9,13 +9,6 @@
 </p>
 
 🔭 I’m currently working for internship.<br>👯 I’m looking to collaborate on anyone.<br>🌱 I’m currently learning anything.<br>⚡ Fun fact I like talking.
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kayshamir&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kayshamir&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
