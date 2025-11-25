@@ -9,17 +9,22 @@
 </p>
 
 🔭 I’m currently working for internship.<br>👯 I’m looking to collaborate on anyone.<br>🌱 I’m currently learning anything.<br>⚡ Fun fact I like talking.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kayshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kayshamir&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kayshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kayshamir&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayshamir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kayshamir&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kayshamir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kayshamir&icon=0&color=0)](https://visitcount.itsvg.in)
