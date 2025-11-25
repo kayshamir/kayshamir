@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Bf2uMJM87ksTfLDGKFkR3V0yALnF3w0v/view?usp=sharing" alt="Kay Shamir Header" />
+  <img src="https://drive.google.com/uc?export=view&id=1Bf2uMJM87ksTfLDGKFkR3V0yALnF3w0v" alt="Kay Shamir Header" />
 </p>
 
 <h1 align="center">Hi, I'm Kay Shamir👋</h1>
