@@ -1,7 +1,7 @@
 <!-- Typewriter Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=65&duration=2000&pause=1000&color=F72C2C&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Kay+Shamir%F0%9F%91%8B" alt="Kay Shamir Header"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=2000&pause=1000&color=F72C2C&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Kay+Shamir%F0%9F%91%8B" alt="Kay Shamir Header"/>
   </a>
 </p>
 
