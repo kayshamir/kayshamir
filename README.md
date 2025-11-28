@@ -14,27 +14,26 @@
 </p>
 
 <!-- Currently Section (2x2 Grid) -->
-<table align="center" style="border-collapse: separate; border-spacing: 12px;">
-  <tr>
-    <td align="center" style="padding: 14px 18px; background:#f7f7f7; border:1px solid #e0e0e0; border-radius:10px;">
-      🔭 I’m currently working for internship.
-    </td>
-    <td align="center" style="padding: 14px 18px; background:#f7f7f7; border:1px solid #e0e0e0; border-radius:10px;">
-      👯 I’m looking to collaborate with anyone.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 14px 18px; background:#f7f7f7; border:1px solid #e0e0e0; border-radius:10px;">
-      🌱 I’m currently learning anything.
-    </td>
-    <td align="center" style="padding: 14px 18px; background:#f7f7f7; border:1px solid #e0e0e0; border-radius:10px;">
-      ⚡ Fun fact → I like talking.
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+  <div style="width: 200px; text-align: left;">
+    🔭 I’m currently working for internship.
+  </div>
+  <div style="width: 200px; text-align: left;">
+    👯 I’m looking to collaborate with anyone.
+  </div>
+  <div style="width: 200px; text-align: left;">
+    🌱 I’m currently learning anything.
+  </div>
+  <div style="width: 200px; text-align: left;">
+    ⚡ Fun fact → I like talking.
+  </div>
+</div>
+
+<p> </p>
+<p> </p>
 
 <!-- Skills -->
-<p align="center">
+<p align="center" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,java,c,cs,python,nodejs,laravel,dotnet,react,nextjs,vite,django,jquery,mysql,postgres,firebase,supabase,tailwind,bootstrap,figma,git,github,postman,vercel,kali,powershell,notion,npm,vscode&theme=light&perline=14"/>
   </a>
