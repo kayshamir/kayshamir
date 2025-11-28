@@ -46,8 +46,8 @@
 
 <!-- GitHub Stats & Streaks -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kayshamir&theme=flag-india&hide_border=false&border_color=BBBBBB" width="57%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayshamir&hide_border=false&border_color=BBBBBB&include_all_commits=true&layout=compact" width="41%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kayshamir&theme=flag-india&hide_border=false&border_color=DDDDDD" width="57%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayshamir&hide_border=false&border_color=EEEEEE&include_all_commits=true&layout=compact" width="41%" />
 </p>
 
 <!-- GitHub Contributions Snake Animation -->
