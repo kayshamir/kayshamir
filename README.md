@@ -7,10 +7,8 @@
 
 <!-- Short Description -->
 <p align="center">
-  <i>
     I’m a UI/UX designer, Web, and Mobile development enthusiast,<br>
     continuously enjoying learning and bridging design with development.
-  </i>
 </p>
 
 <!-- Currently Section (2x2 Grid) -->
